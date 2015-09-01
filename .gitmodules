@@ -1,9 +1,6 @@
 [submodule "lib/c-longboard-api"]
 	path = lib/c-longboard-api
 	url = https://github.com/Coderlane/c-longboard-api.git
-[submodule "lib/c-bbb-pwm"]
-	path = lib/c-bbb-pwm
-	url = https://github.com/Coderlane/c-bbb-pwm.git
 [submodule "bin/longboard_mcd"]
 	path = bin/longboard_mcd
 	url = https://github.com/Coderlane/longboard_mcd.git
