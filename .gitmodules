@@ -4,3 +4,6 @@
 [submodule "bin/longboard_mcd"]
 	path = bin/longboard_mcd
 	url = https://github.com/Coderlane/longboard_mcd.git
+[submodule "lib/c-pwm-api"]
+	path = lib/c-pwm-api
+	url = git@github.com:Coderlane/c-pwm-api.git
